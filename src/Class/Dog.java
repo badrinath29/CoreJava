@@ -9,5 +9,6 @@ public class Dog {
     {
 	Dog obj=new Dog();
     System.out.println(obj.Height);
+    System.out.println(obj.weight);
     }
 }
